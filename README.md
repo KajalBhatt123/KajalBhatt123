@@ -3,13 +3,13 @@
  
  **Interests**:
  
-💻 Software Development: I enjoy working on various software projects and contributing to open-source communities.
+💻 Software Development
 
-🌐 Web Development: Designing and developing responsive and dynamic websites using modern frameworks and technologies.
+🌐 Web Development
 
-📊 Machine Learning: Fascinated by the power of data, I delve into machine learning algorithms and their applications.
+📊 Machine Learning
 
-🏆 Data Structures and Algorithms: Sharpening my problem-solving skills by solving problems regularly on coding platforms.
+🏆 Data Structures and Algorithms
 
 
 **Skills**
