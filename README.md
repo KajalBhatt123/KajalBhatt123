@@ -25,7 +25,7 @@
 
 📧 **Email:** [kajalbhatt1110@gmail.com]
 
-💼 **LinkedIn**: [[your LinkedIn profile](https://www.linkedin.com/in/kajal-bhatt-531809284/)]
+💼 **LinkedIn**: [[click here](https://www.linkedin.com/in/kajal-bhatt-531809284/)]
 <!---
 KajalBhatt123/KajalBhatt123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
