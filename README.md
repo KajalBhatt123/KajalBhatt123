@@ -20,7 +20,7 @@
 
 🗄️ Databases: MySQL, MongoDB
 
-🛠️ Tools & Platforms: Git, VsCode.
+🛠️ Tools & Platforms: Git, VsCode, Postman.
 
 
 📧 **Email:** [kajalbhatt1110@gmail.com]
