@@ -23,6 +23,9 @@
 🛠️ Tools & Platforms: Git, VsCode, Postman.
 
 
+<img src="https://github.com/user-attachments/assets/90422e77-f636-4ec1-b4fd-a2f6e5fff713" alt="Share Badge" height="500" />
+
+
 📧 **Email:** [kajalbhatt1110@gmail.com]
 
 💼 **LinkedIn**: [[click here](https://www.linkedin.com/in/kajal-bhatt-531809284/)]
