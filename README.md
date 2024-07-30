@@ -24,7 +24,6 @@
 </div>
 
 
-
 <hr/>
 
 ## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="41px" alt="Skill Icon"> Skills
@@ -38,9 +37,25 @@
 
 🛠️ Tools & Platforms: Git, VsCode, Postman.
 </div>
+<hr>
+
+<div align="center">
+  <h2>GSSOC(24) Badges 🪶</h2>
+  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+      <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+      <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+    </a>
+  </div>
+</div>
+
+
 <hr/>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/90422e77-f636-4ec1-b4fd-a2f6e5fff713" alt="Share Badge" height="500" />
+  <img src="https://github.com/user-attachments/assets/94a927d2-d79c-4356-96b9-1f0104fbfdc7" alt="Share Badge" height="250" />
+     <img src="https://github.com/user-attachments/assets/90422e77-f636-4ec1-b4fd-a2f6e5fff713" alt="Share Badge" height="250" style="margin-right: 20px;" />
+</div>
+
 
 <div/>
  <hr/>
