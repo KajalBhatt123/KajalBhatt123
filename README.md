@@ -10,22 +10,26 @@
  <div align="center">
 
 <hr/>
- 
-<h2 align="center">Interests</h2>
-<br/>
- 
-💻 Software Development
 
-🌐 Web Development
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Interests
 
-📊 Machine Learning
+<div align="center">
+    <img src="https://media.giphy.com/media/9rcx4VIBB6VZ2uFuYK/giphy.gif" width="250px" alt="Interests GIF" style="float: right; margin-left: 15px;">
+    <p style="text-align: left;">
+        💻 Software Development<br/>
+        🌐 Web Development<br/>
+        📊 Machine Learning<br/>
+        🏆 Data Structures and Algorithms
+    </p>
+</div>
 
-🏆 Data Structures and Algorithms
+
 
 <hr/>
 
-<h2 align="center">Skills</h2>
-<br/>
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="41px" alt="Skill Icon"> Skills
+
+
 💡 Languages: Python, Java, C++, JavaScript
 
 🌐 Web Technologies: HTML, CSS, React, Node.js
