@@ -5,6 +5,8 @@
 
 <h3 align="center">A passionate B.Tech CSE student. Welcome to my GitHub profile! I love exploring new technologies,
  solving problems, and building innovative projects.</h3>
+
+
  
  
  <div align="center">
@@ -55,10 +57,16 @@
 
 
 <hr/>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/94a927d2-d79c-4356-96b9-1f0104fbfdc7" alt="Share Badge" height="250" />
-     <img src="https://github.com/user-attachments/assets/90422e77-f636-4ec1-b4fd-a2f6e5fff713" alt="Share Badge" height="250" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/90422e77-f636-4ec1-b4fd-a2f6e5fff713" alt="Share Badge" height="250" style="margin-right: 20px;" />
+  <br>
+    
+ > **_Every setback is a setup for a comeback._**  🎯📈
 </div>
+
+
 
 
 <div/>
