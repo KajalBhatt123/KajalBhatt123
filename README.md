@@ -43,26 +43,31 @@
 
 <div align="center">
     
-  ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
-  </div>
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  </a>
 </div>
 
 
 <hr/>
 
+## Certifications📔
 <div align="center">
   <img src="https://github.com/user-attachments/assets/94a927d2-d79c-4356-96b9-1f0104fbfdc7" alt="Share Badge" height="250" />
   <img src="https://github.com/user-attachments/assets/90422e77-f636-4ec1-b4fd-a2f6e5fff713" alt="Share Badge" height="250" style="margin-right: 20px;" />
     <img src="https://github.com/user-attachments/assets/8bfe5c0f-8dfd-43c3-ad3b-d6a3cd09cc06" alt="Share Badge" height="250" style="margin-right: 20px;" />
     <img src="https://github.com/user-attachments/assets/423b5be3-896b-4ffb-8098-d5b21161b356" alt="Share Badge" height="250" style="margin-right: 20px;" />
+    <img src="https://github.com/user-attachments/assets/2e24300a-7c8b-43da-bf5e-edf2999e4117" alt="Share Badge" height="250" style="margin-right: 20px;" />
+    <img src="https://github.com/user-attachments/assets/9f6dceba-8c62-498a-a6cd-8020692e94e6" alt="Share Badge" height="250" style="margin-right: 20px;" />
+
+
+    
 
   <br>
 
