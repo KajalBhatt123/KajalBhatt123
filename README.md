@@ -56,6 +56,9 @@
 
 
 <hr/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalBhatt123&layout=donut)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KajalBhatt123&show_icons=true&theme=radical)
+
 
 ## Certifications📔
 <div align="center">
