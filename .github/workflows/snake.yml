@@ -16,10 +16,10 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user: KajalBhatt123   # Replace 'your_username' with your GitHub username.
-          svg_out_path: dist/github-snake.svg
+          svg_out_path: github-snake.svg  # Save the snake file directly in the root directory.
 
       - name: Commit and push snake SVG
         uses: EndBug/add-and-commit@v7
         with:
-          add: 'dist/github-snake.svg'
+          add: 'github-snake.svg'  # Add the file to the root directory.
           message: 'Add latest contribution snake'
