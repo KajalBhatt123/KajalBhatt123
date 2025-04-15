@@ -60,19 +60,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalBhatt123&layout=donut)
 
 
-## Certifications📔
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/94a927d2-d79c-4356-96b9-1f0104fbfdc7" alt="Share Badge" height="250" />
-  <img src="https://github.com/user-attachments/assets/90422e77-f636-4ec1-b4fd-a2f6e5fff713" alt="Share Badge" height="250" style="margin-right: 20px;" />
-    <img src="https://github.com/user-attachments/assets/8bfe5c0f-8dfd-43c3-ad3b-d6a3cd09cc06" alt="Share Badge" height="250" style="margin-right: 20px;" />
-    <img src="https://github.com/user-attachments/assets/423b5be3-896b-4ffb-8098-d5b21161b356" alt="Share Badge" height="250" style="margin-right: 20px;" />
-    <img src="https://github.com/user-attachments/assets/2e24300a-7c8b-43da-bf5e-edf2999e4117" alt="Share Badge" height="250" style="margin-right: 20px;" />
-    <img src="https://github.com/user-attachments/assets/9f6dceba-8c62-498a-a6cd-8020692e94e6" alt="Share Badge" height="250" style="margin-right: 20px;" />
 
+## 📄 Certifications
 
-    
-
-  <br>
+[🔗 Click here to view all my certifications](https://github.com/your-username/your-repo-name/tree/main/certifications)
+<br>
 
  > **_Every setback is a setup for a comeback._**  🎯📈
 </div>
