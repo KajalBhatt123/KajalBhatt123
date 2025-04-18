@@ -63,7 +63,7 @@
 
 ## 📄 Certifications
 
-[🔗 Click here to view all my certifications](https://github.com/KajalBhatt123/KajalBhatt123/tree/main/Certifications)
+[🔗 Click here to view](https://github.com/KajalBhatt123/KajalBhatt123/tree/main/Certifications)
 <br>
 
  > **_Every setback is a setup for a comeback._**  🎯📈
